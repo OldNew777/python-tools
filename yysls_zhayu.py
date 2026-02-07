@@ -155,7 +155,7 @@ def main():
     print(f"- 开关按键：{TOGGLE_KEY}（等号键）")
     print(f"- 基础间隔：{BASE_INTERVAL} 秒")
     print(f"- 随机延时：{MIN_RANDOM_DELAY}~{MAX_RANDOM_DELAY} 秒")
-    print(f"- 执行按键：alt + 1")
+    print(f"- 执行按键：1")
     print("============================")
     print("按 = 键开启/关闭宏，按 Ctrl+C 退出程序\n")
     
